@@ -1,0 +1,2 @@
+# Help
+Rock Paper scissors
